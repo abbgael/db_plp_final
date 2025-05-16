@@ -21,7 +21,7 @@ This project is a **relational database schema** designed for managing core hosp
 You can view the Entity Relationship Diagram (ERD) for this project:
 
 
-![Entity Relationship Diagram](./erd.PNG)
+![Entity Relationship Diagram](./erd.PNG) 
   
 
 
